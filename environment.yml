@@ -9,6 +9,5 @@ dependencies:
   - scipy
   - scikit-learn
   - matplotlib
-  - seaborn
   - streamlit
   - xgboost
